@@ -1,5 +1,5 @@
 url : http://analyzecore.com/2014/12/04/sequence-carts-in-depth-analysis-with-r/
-
+# this is the url for shopping
 setwd("F:/xangars/ShoppingCart")
 
 library(dplyr)
