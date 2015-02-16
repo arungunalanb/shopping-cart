@@ -1,5 +1,10 @@
 url : http://analyzecore.com/2014/12/04/sequence-carts-in-depth-analysis-with-r/
+<<<<<<< HEAD
 # this is the url for shopping
+=======
+This is the url 
+This is the url - this changei made
+>>>>>>> origin/master
 setwd("F:/xangars/ShoppingCart")
 
 library(dplyr)
